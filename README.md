@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá, eu sou o João Vitor
 
-<!--
-**joaoaraujo472/joaoaraujo472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em:
+- Front-end (React, HTML, CSS, JS)
+- UI/UX Design
+- Projetos educacionais (EducaBot)
 
-Here are some ideas to get you started:
+🚀 Projetos em destaque:
+- 🤖 Educabot – Chatbot educacional
+- 🌐 Mãos de Ouro – Site institucional
+- 🧠 Cogniva Matemática – Sistema educacional
+- Planeja.ai - Sistema de organização financeira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudando:
+- React avançado
+- Integração com APIs
+- Sistemas com autenticação
+- Desenvolvimento de sites
+- Estrutura de css
+
+📫 Contato:
+- Email: joaoaaraujosilva2022@gmail.com
+- LinkedIn: www.linkedin.com/in/joão-vitor-silva-araújo
