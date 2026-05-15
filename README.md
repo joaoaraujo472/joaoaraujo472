@@ -94,8 +94,8 @@ Tenho experiência no desenvolvimento de **sistemas educacionais**, unindo:
 # 🌎 Contato
 
 <p align="center">
-  <a href="https://github.com/joaoaraujo472">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:joaoaaraujosilva2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/joaovitoraraujo">
@@ -111,8 +111,4 @@ Tenho experiência no desenvolvimento de **sistemas educacionais**, unindo:
   
 > "Transformando ideias em interfaces que fazem sentido."
 
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 </p>
