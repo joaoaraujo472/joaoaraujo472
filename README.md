@@ -1,85 +1,118 @@
 # 👨‍💻 João Araujo
 
-# 🧠 Sobre Mim
+## 💡 Sobre mim
 
-Olá! Me chamo **João Araujo** e sou apaixonado por tecnologia e programação.
-💻 Atualmente desenvolvendo projetos com foco em:
-
-- Desenvolvimento Web
-- Interfaces modernas e futuristas
-- Automação e programação
-- Projetos educacionais
-
-🎯 Sempre buscando aprender novas tecnologias e criar projetos cada vez mais profissionais.
+💻 Desenvolvedor focado em criar **interfaces modernas, intuitivas e responsivas**  
+🎯 Apaixonado por tecnologia, design e educação  
+🚀 Desenvolvendo soluções criativas que ajudam pessoas a aprender melhor
 
 ---
 
-# ⚙️ Tecnologias que utilizo
+## 🧠 Diferencial
 
-<div align="center">
+Tenho experiência no desenvolvimento de **sistemas educacionais**, unindo:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
-
-</div>
+- 🎨 Design moderno
+- ⚡ Performance
+- 📱 Responsividade
+- 🤖 Inteligência Artificial
+- 📚 Educação acessível
 
 ---
 
-# 📌 Projetos em Destaque
+# 🚀 Projetos em destaque
 
-## 🤖 EducaBot
-Chatbot educacional desenvolvido para ajudar alunos de escolas públicas com:
-- Explicações escolares
-- Simulados
-- Rotinas de estudo
-- Correção de atividades
-- Sistema de login
+## 🤖 Educabot
+> Chatbot educacional para auxiliar estudantes com conteúdos escolares
+
+### 🔥 Recursos:
+- Sistema com IA
 - Área do professor
+- Login de usuários
+- Histórico de conversas
+- Interface moderna
+- Foco em escolas públicas
+
+🔗 Em desenvolvimento
 
 ---
 
-## 🌐 Portfólios e Sites
-Desenvolvimento de sites modernos, responsivos e com visual futurista.
+## 🌐 Mãos de Ouro
+> Site institucional moderno e responsivo
+
+🔗 https://maosdeouro.github.io
 
 ---
 
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaraujo472&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaraujo472&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+## 🧠 Cogniva Matemática
+> Plataforma educacional voltada ao ensino de matemática
 
 ---
 
-# 🌎 Redes Sociais
-
-<div align="center">
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+## 💰 Planeja.ai
+> Sistema de organização financeira pessoal
 
 ---
 
-<div align="center">
+# 🛠️ Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
+---
 
-## ⚡ Frase
+# 📚 Atualmente estudando
 
-"Transformando ideias em código."
+- ⚛️ React avançado
+- 🔗 APIs REST
+- 🔐 Autenticação
+- 🎨 UI/UX avançado
+- 📱 Arquitetura CSS
+- 🚀 Performance Web
 
-</div>
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoaraujo472&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaraujo472&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Atividade
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoaraujo472&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌎 Contato
+
+<p align="center">
+  <a href="https://github.com/joaoaraujo472">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/joaovitoraraujo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Frase
+
+<p align="center">
+  
+> "Transformando ideias em interfaces que fazem sentido."
+
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+</p>
