@@ -98,7 +98,7 @@ Tenho experiência no desenvolvimento de **sistemas educacionais**, unindo:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/joaovitoraraujo">
+  <a href="https://www.linkedin.com/in/joãoaaraujo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
